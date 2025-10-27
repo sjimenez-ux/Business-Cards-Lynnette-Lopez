@@ -2,7 +2,7 @@ BEGIN:VCARD
 VERSION:3.0
 PRODID:-//ChatGPT//vCard 3.0//EN
 FN:Lynnette Lopez
-N:Lopez;:Lynnette;;
+N:Lopez;Lynnette;;
 ORG:Phoenix American Companies
 TITLE:Controller
 TEL;TYPE=work,voice:+1-305-266-5665 
@@ -13,3 +13,4 @@ ADR;TYPE=work:;;6303 Waterford District Drive;Miami;FL;33126;USA
 REV:20250918T135246Z
 
 END:VCARD
+
